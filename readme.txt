@@ -1,5 +1,5 @@
 Berikut merupakan deskripsi tentang program yang dibuat:
-Web tersebut dibuat untuk memudahkan user dan admin dalam mengelola pemesanan nasi kotak
+Web tersebut dibuat untuk memudahkan user dan admin dalam mengelola booking shooting area beserta sewa senjata
 Data yang dibuat disimpan di dalam file text di program ini file text tersebut bernama pemesanan.csv
 Mengeksekusi source code
 Mengidentifikasi hasil eksekusi
