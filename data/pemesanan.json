@@ -1,0 +1,56 @@
+[
+    {
+        "ID": "Mamat_1_20230816062226",
+        "nama": "Mamat",
+        "area": "1",
+        "waktu": "16-08-2023 06:22:26",
+        "pesanan": "Pistol Glock",
+        "jumlah": "2",
+        "subtotal": 16340000
+    },
+    {
+        "ID": "Firdaus_1_20230816065237",
+        "nama": "Firdaus",
+        "area": "1",
+        "waktu": "16-08-2023 06:52:37",
+        "pesanan": "Senapan SKS",
+        "jumlah": "4",
+        "subtotal": 32680000
+    },
+    {
+        "ID": "Aisyah_2_20230816070142",
+        "nama": "Aisyah",
+        "area": "2",
+        "waktu": "16-08-2023 07:01:42",
+        "pesanan": "Senapan SKS",
+        "jumlah": "4",
+        "subtotal": 32680000
+    },
+    {
+        "ID": "shoso_1_20230816080118",
+        "nama": "shoso",
+        "area": "1",
+        "waktu": "16-08-2023 08:01:18",
+        "pesanan": "Senapan SKS",
+        "jumlah": "14",
+        "subtotal": 114380000
+    },
+    {
+        "ID": "mamat_1_20230816080620",
+        "nama": "mamat",
+        "area": "1",
+        "waktu": "16-08-2023 08:06:20",
+        "pesanan": "Senapan Serbu M16",
+        "jumlah": "10",
+        "subtotal": 81700000
+    },
+    {
+        "ID": "Alisa_2_20230818045506",
+        "nama": "Alisa",
+        "area": "2",
+        "waktu": "18-08-2023 04:55:06",
+        "pesanan": "Senapan SKS",
+        "jumlah": "3",
+        "subtotal": 24510000
+    }
+]
